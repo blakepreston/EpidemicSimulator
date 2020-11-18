@@ -28,3 +28,4 @@ workplace 10.5, 12;  // median and scatter of workplace size (syntax error?)
 end 10.0;
 
 ```
+![](Epidemic.gif)
