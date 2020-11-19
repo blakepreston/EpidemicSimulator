@@ -1,5 +1,7 @@
 # EpidemicSimulator
 
+*Test
+
 ## Overview
 
 Project is ongoing and features are added every week. Includes Javadoc comments for easier visualization and documentation.
