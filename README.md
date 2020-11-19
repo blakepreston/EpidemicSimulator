@@ -1,6 +1,6 @@
 # EpidemicSimulator
 
-*Test
+-Test
 
 ## Overview
 
