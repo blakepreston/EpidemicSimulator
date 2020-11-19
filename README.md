@@ -1,12 +1,7 @@
 # EpidemicSimulator
 
 Test
------
-
-Test
 =====
-
-#####Test
 
 ## Overview
 
